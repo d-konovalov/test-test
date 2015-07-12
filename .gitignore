@@ -1,0 +1,5 @@
+#asdf
+*.log
+*.~
+reports/
+!to_be_commited.log
