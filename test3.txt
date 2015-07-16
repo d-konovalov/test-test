@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 SDFSD
+=======
+asdfqwerqwerasdf
+asdf
+asdf
+asdf
+
+asdf
+asdf
+asdf
+>>>>>>> 5fde1afb6c635dfbf54f332b3328a6a1b62a5054
